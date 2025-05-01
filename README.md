@@ -9,4 +9,3 @@ Este repositorio se proporciona con fines educativos y/o de desarrollo. El autor
 
 Cualquier fork, modificación o redistribución del presente código queda bajo la responsabilidad exclusiva de quien lo realice. El uso de este código debe respetar las leyes locales, políticas de GitHub y los principios éticos correspondientes.
 
-Si encuentras un uso indebido de este repositorio o sus forks, por favor repórtalo directamente a GitHub.
